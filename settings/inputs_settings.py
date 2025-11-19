@@ -1,8 +1,8 @@
 from dataclasses import dataclass
 
-from playwright.sync_api import Page, Locator, ElementHandle
+from playwright.sync_api import Locator
 
-from logging_file import pars_logger
+from settings.logging_file import pars_logger
 
 
 @dataclass

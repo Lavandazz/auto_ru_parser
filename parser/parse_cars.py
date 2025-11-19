@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 from playwright.sync_api import Page
 
-from logging_file import pars_logger
+from settings.logging_file import pars_logger
 from texts.transformation_text import transform_text
 
 

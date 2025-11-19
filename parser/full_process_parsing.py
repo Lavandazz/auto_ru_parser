@@ -1,7 +1,7 @@
 import time
 import random
 
-from logging_file import pars_logger
+from settings.logging_file import pars_logger
 from parser.parse_cars import ParserText
 from parser.search_selector import SearchSelector
 from texts.saver_text import SaverText

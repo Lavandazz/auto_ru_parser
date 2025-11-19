@@ -2,7 +2,7 @@ from dataclasses import dataclass
 
 import pandas as pd
 
-from logging_file import pars_logger
+from settings.logging_file import pars_logger
 
 
 @dataclass

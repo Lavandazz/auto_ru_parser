@@ -5,3 +5,7 @@ venv/
 logs/
 
 *.pyc
+
+cars.xlsx
+
+debug_page.html

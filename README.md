@@ -15,8 +15,15 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/Lavandazz/auto_ru_parser.git
-```
+
 cd auto-ru-parser
+```
+
+
+2. Установка зависимостей:
+```bash
+pip install -r requirements.txt
+```
 
 ## 🚀 Использование
 

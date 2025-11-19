@@ -3,7 +3,7 @@ from dataclasses import dataclass
 
 from playwright.sync_api import Page, Locator
 
-from logging_file import pars_logger
+from settings.logging_file import pars_logger
 from texts.input_text import TAGS_PLACEHOLDER, TAGS_NAMES
 
 
